@@ -34,3 +34,4 @@ jobs:
           SSC_TOKEN: ${{secrets.SSC_TOKEN}}
           SC_SAST_TOKEN: ${{secrets.SC_SAST_CLIENT_AUTH_TOKEN}}
           DO_SETUP: true
+          DO_WAIT: true
