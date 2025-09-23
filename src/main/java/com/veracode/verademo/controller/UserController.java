@@ -61,7 +61,6 @@ public class UserController {
 
 	@Autowired
 	ServletContext context;
-	public String password = "testpassword";
 
 	/**
 	 * @param target
